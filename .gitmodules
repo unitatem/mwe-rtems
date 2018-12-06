@@ -3,3 +3,8 @@
 	url = git@github.com:RTEMS/rtems-source-builder.git
 	branch = 4.11.3
 
+[submodule "rtems"]
+	path = rtems
+	url = git@github.com:RTEMS/rtems.git
+	branch = 4.11.3
+
