@@ -1,0 +1,5 @@
+[submodule "rsb/rtems-source-builder"]
+	path = rsb/rtems-source-builder
+	url = git@github.com:RTEMS/rtems-source-builder.git
+	branch = 4.11.3
+
