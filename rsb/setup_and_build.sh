@@ -16,5 +16,5 @@ cd rtems-source-builder/rtems
 ../source-builder/sb-set-builder --list-bsets
 
 echo -e "${RED}BULDING${NC}"
-../source-builder/sb-set-builder --prefix=$THIS_DIR/4.11 4.11/rtems-sparc
+../source-builder/sb-set-builder --prefix=$THIS_DIR/4.11 4.11/rtems-arm
 
