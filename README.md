@@ -48,8 +48,12 @@ In case of problems with permissions run
 sudo chmod 666 /dev/ttyUSB0
 ```
 
+![alt text](/docs/screen_hello_log.png "Screenshot hello logs")
+
 ## RTEMS blink
 Use ready to go wrapping script to build RTEMS and install blink sample project on device
 ```sh
 ./install_blink.sh
 ```
+
+![alt text](/docs/screen_blink_log.png "Screenshot blink logs")
