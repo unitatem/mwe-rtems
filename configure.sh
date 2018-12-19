@@ -8,6 +8,3 @@ BOARD=stm32f4
 PREFIX=$MYDIR/install
 ../rtems/configure --target=${TARGET} --enable-rtemsbsp=${BOARD} --enable-tests=samples --prefix=${PREFIX}
 
-make
-make install
-
